@@ -1,0 +1,7 @@
+ignite scaffold chain noctra
+cd noctra
+git init
+git remote add origin https://github.com/<teu-usuario>/noctra-chain.git
+git add .
+git commit -m "Initial blockchain commit"
+git push -u origin main
